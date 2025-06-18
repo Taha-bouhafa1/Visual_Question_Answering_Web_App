@@ -2,7 +2,7 @@
 
 This project is a Visual Question Answering (VQA) web application that allows users to upload images and ask questions about them. The backend uses a deep learning model trained to understand and answer questions based on the image content.
 
-This project is part of my larger Visual Question Answering system that I have worked on. You can find the full VQA system project here:  
+This project is part of my larger Visual Question Answering system that I have worked on. You can find the full VQA  project here:  
 https://github.com/Taha-bouhafa1/Visual-Question-Answering-VQA-project
 
 ## Current Status
