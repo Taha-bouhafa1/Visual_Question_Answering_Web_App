@@ -7,7 +7,7 @@ from PIL import Image
 from transformers import BertModel, BertTokenizer
 import json
 import warnings
-from IPython.display import display
+#from IPython.display import display
 
 class VQAModel(nn.Module):
     def __init__(self, cnn_feature_size=2048, bert_feature_size=768, num_classes=1001):
@@ -160,7 +160,7 @@ class VQADemo:
 
                 # Display the original image
                 print("Input Image:")
-                display(self.original_image)
+                #display(self.original_image)
 
                 # Extract features
                 cnn_features = self.extract_cnn_features(image_tensor)
