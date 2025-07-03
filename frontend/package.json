@@ -1,0 +1,8 @@
+{
+  "name": "vqa-frontend",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "serve -s ."
+  },
+  "dependencies": {}
+}
